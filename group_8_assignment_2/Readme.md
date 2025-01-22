@@ -1,3 +1,5 @@
+Score : 104/110
+
 We have used mpi4py, numpy and matplotlib libraries.
 
 To install we have created a install_libraries.sh
