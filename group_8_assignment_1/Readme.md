@@ -1,3 +1,4 @@
+Score : 110/110
 
 We have used mpi4py, numpy and matplotlib libraries.
 
